@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Greetings!",
+      "permalink": "/docusaurus-lunr-search-demo/blog/greetings"
+    },
+    {
+      "title": "Welcome",
+      "permalink": "/docusaurus-lunr-search-demo/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/docusaurus-lunr-search-demo/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/docusaurus-lunr-search-demo/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/docusaurus-lunr-search-demo/blog/first-blog-post"
+    }
+  ]
+}

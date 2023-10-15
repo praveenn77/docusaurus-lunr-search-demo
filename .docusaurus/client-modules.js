@@ -1,6 +1,6 @@
 export default [
-  require("infima/dist/css/default/default.css"),
-  require("remark-admonitions/styles/infima.css"),
-  require("D:\\J\\OfflineSearchDemo\\src\\css\\custom.css"),
-  require("D:\\J\\OfflineSearchDemo\\node_modules\\@docusaurus\\theme-classic\\src\\prism-include-languages"),
+  require('/Users/praveenn/Documents/CODE/docusaurus-lunr-search-demo/node_modules/infima/dist/css/default/default.css'),
+  require('/Users/praveenn/Documents/CODE/docusaurus-lunr-search-demo/node_modules/@docusaurus/theme-classic/lib/prism-include-languages'),
+  require('/Users/praveenn/Documents/CODE/docusaurus-lunr-search-demo/node_modules/@docusaurus/theme-classic/lib/nprogress'),
+  require('/Users/praveenn/Documents/CODE/docusaurus-lunr-search-demo/src/css/custom.css'),
 ];

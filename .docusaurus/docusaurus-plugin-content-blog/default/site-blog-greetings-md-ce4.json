@@ -1,0 +1,60 @@
+{
+  "permalink": "/docusaurus-lunr-search-demo/blog/greetings",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/greetings.md",
+  "source": "@site/blog/greetings.md",
+  "title": "Greetings!",
+  "description": "Congratulations, you have made your first post!",
+  "date": "2023-10-15T16:39:03.816Z",
+  "formattedDate": "October 15, 2023",
+  "tags": [
+    {
+      "label": "greetings",
+      "permalink": "/docusaurus-lunr-search-demo/blog/tags/greetings"
+    }
+  ],
+  "readingTime": 0.1,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Joel Marcey",
+      "title": "Co-creator of Docusaurus 1",
+      "url": "https://github.com/JoelMarcey",
+      "image_url": "https://github.com/JoelMarcey.png",
+      "imageURL": "https://github.com/JoelMarcey.png"
+    },
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer",
+      "url": "https://sebastienlorber.com",
+      "image_url": "https://github.com/slorber.png",
+      "imageURL": "https://github.com/slorber.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "greetings",
+    "title": "Greetings!",
+    "authors": [
+      {
+        "name": "Joel Marcey",
+        "title": "Co-creator of Docusaurus 1",
+        "url": "https://github.com/JoelMarcey",
+        "image_url": "https://github.com/JoelMarcey.png",
+        "imageURL": "https://github.com/JoelMarcey.png"
+      },
+      {
+        "name": "Sébastien Lorber",
+        "title": "Docusaurus maintainer",
+        "url": "https://sebastienlorber.com",
+        "image_url": "https://github.com/slorber.png",
+        "imageURL": "https://github.com/slorber.png"
+      }
+    ],
+    "tags": [
+      "greetings"
+    ]
+  },
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/docusaurus-lunr-search-demo/blog/welcome"
+  }
+}

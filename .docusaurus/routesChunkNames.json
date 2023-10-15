@@ -1,101 +1,229 @@
 {
-  "/": {
-    "component": "ece76bd1"
-  },
-  "/blog": {
-    "component": "a6aa9e1f",
+  "/docusaurus-lunr-search-demo/blog-922": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "99caf125"
+        "content": "2c680e8f"
       },
       {
-        "content": "c0a4ca73"
+        "content": "7661071f"
       },
       {
-        "content": "2738c48a"
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
       }
     ],
-    "metadata": "bbb4ffb5"
+    "metadata": "9daf173f"
   },
-  "/blog/hello-world": {
-    "component": "ccc49370",
-    "content": "843d79fe"
+  "/docusaurus-lunr-search-demo/blog/archive-a4f": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "archive": "4eccb37c"
   },
-  "/blog/hola": {
-    "component": "ccc49370",
-    "content": "aeda19be"
+  "/docusaurus-lunr-search-demo/blog/first-blog-post-d49": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
-  "/blog/tags": {
-    "component": "01a85c17",
-    "tags": "8be5b89e"
+  "/docusaurus-lunr-search-demo/blog/greetings-775": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
+    "content": "ce4077a5"
   },
-  "/blog/tags/docusaurus": {
-    "component": "6875c492",
+  "/docusaurus-lunr-search-demo/blog/long-blog-post-ae4": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/docusaurus-lunr-search-demo/blog/mdx-blog-post-819": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/docusaurus-lunr-search-demo/blog/tags-005": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
+    "tags": "6e0b0c16"
+  },
+  "/docusaurus-lunr-search-demo/blog/tags/docusaurus-d7f": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "99caf125"
+        "content": "7661071f"
       },
       {
-        "content": "c0a4ca73"
+        "content": "f4f34a3a"
       },
       {
-        "content": "2738c48a"
-      }
-    ],
-    "metadata": "6ca375e2"
-  },
-  "/blog/tags/facebook": {
-    "component": "6875c492",
-    "items": [
-      {
-        "content": "99caf125"
-      }
-    ],
-    "metadata": "eec15bdb"
-  },
-  "/blog/tags/hello": {
-    "component": "6875c492",
-    "items": [
-      {
-        "content": "99caf125"
+        "content": "8717b14a"
       },
       {
-        "content": "c0a4ca73"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "3a6eb64e"
+    "tag": "f347fd86",
+    "listMetadata": "b4070b0e"
   },
-  "/blog/tags/hola": {
-    "component": "6875c492",
+  "/docusaurus-lunr-search-demo/blog/tags/facebook-d60": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "2738c48a"
+        "content": "7661071f"
       }
     ],
-    "metadata": "31d49d87"
+    "tag": "424f1a19",
+    "listMetadata": "5794eb1d"
   },
-  "/blog/welcome": {
-    "component": "ccc49370",
-    "content": "a9ae89f1"
+  "/docusaurus-lunr-search-demo/blog/tags/greetings-68a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "2c680e8f"
+      }
+    ],
+    "tag": "10abb11f",
+    "listMetadata": "97d2e0f6"
   },
-  "/docs/:route": {
-    "component": "1be78505",
-    "docsMetadata": "20ac7829"
+  "/docusaurus-lunr-search-demo/blog/tags/hello-7f4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "c183826a",
+    "listMetadata": "26ea670e"
   },
-  "/docs/doc1": {
-    "component": "17896441",
-    "content": "7366bc9d"
+  "/docusaurus-lunr-search-demo/blog/tags/hola-d2d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "5e72c852",
+    "listMetadata": "aa1722fb"
   },
-  "/docs/doc2": {
-    "component": "17896441",
-    "content": "991b72a1"
+  "/docusaurus-lunr-search-demo/blog/welcome-dc4": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "98964c74"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
-  "/docs/doc3": {
-    "component": "17896441",
-    "content": "225b4c69"
+  "/docusaurus-lunr-search-demo/markdown-page-c26": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "26deac8f"
+    },
+    "content": "393be207"
   },
-  "/docs/mdx": {
-    "component": "17896441",
-    "content": "45acc928"
+  "/docusaurus-lunr-search-demo/docs-4a4": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "8db53938"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/docusaurus-lunr-search-demo/docs/category/tutorial---basics-b5c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "b907670d"
+  },
+  "/docusaurus-lunr-search-demo/docs/category/tutorial---extras-9a0": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "bee1ecef"
+  },
+  "/docusaurus-lunr-search-demo/docs/intro-c20": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/docusaurus-lunr-search-demo/docs/tutorial-basics/congratulations-87f": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/docusaurus-lunr-search-demo/docs/tutorial-basics/create-a-blog-post-bbe": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/docusaurus-lunr-search-demo/docs/tutorial-basics/create-a-document-dee": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/docusaurus-lunr-search-demo/docs/tutorial-basics/create-a-page-37d": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/docusaurus-lunr-search-demo/docs/tutorial-basics/deploy-your-site-742": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/docusaurus-lunr-search-demo/docs/tutorial-basics/markdown-features-c5d": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/docusaurus-lunr-search-demo/docs/tutorial-extras/manage-docs-versions-d16": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/docusaurus-lunr-search-demo/docs/tutorial-extras/translate-your-site-761": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/docusaurus-lunr-search-demo/-948": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "26deac8f"
+    },
+    "config": "5e9f5e1a"
   }
 }
