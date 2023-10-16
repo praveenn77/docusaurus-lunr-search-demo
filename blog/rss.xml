@@ -4,7 +4,7 @@
         <title>My Site Blog</title>
         <link>https://praveenn77.github.io/docusaurus-lunr-search-demo/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Sun, 15 Oct 2023 16:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 16:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Greetings!]]></title>
             <link>https://praveenn77.github.io/docusaurus-lunr-search-demo/blog/greetings</link>
             <guid>https://praveenn77.github.io/docusaurus-lunr-search-demo/blog/greetings</guid>
-            <pubDate>Sun, 15 Oct 2023 16:39:03 GMT</pubDate>
+            <pubDate>Sun, 15 Oct 2023 16:56:25 GMT</pubDate>
             <description><![CDATA[Congratulations, you have made your first post!]]></description>
             <content:encoded><![CDATA[<p>Congratulations, you have made your first post!</p><p>Feel free to play around and edit this post as much you like.</p>]]></content:encoded>
             <category>greetings</category>

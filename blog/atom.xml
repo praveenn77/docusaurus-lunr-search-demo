@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://praveenn77.github.io/docusaurus-lunr-search-demo/blog</id>
     <title>My Site Blog</title>
-    <updated>2023-10-15T16:39:03.816Z</updated>
+    <updated>2023-10-15T16:56:25.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://praveenn77.github.io/docusaurus-lunr-search-demo/blog"/>
     <subtitle>My Site Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Greetings!]]></title>
         <id>https://praveenn77.github.io/docusaurus-lunr-search-demo/blog/greetings</id>
         <link href="https://praveenn77.github.io/docusaurus-lunr-search-demo/blog/greetings"/>
-        <updated>2023-10-15T16:39:03.816Z</updated>
+        <updated>2023-10-15T16:56:25.000Z</updated>
         <summary type="html"><![CDATA[Congratulations, you have made your first post!]]></summary>
         <content type="html"><![CDATA[<p>Congratulations, you have made your first post!</p><p>Feel free to play around and edit this post as much you like.</p>]]></content>
         <author>
